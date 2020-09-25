@@ -1,0 +1,40 @@
+html {
+    background-color: lightblue;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: blue;
+}
+
+img {
+    width :150px;
+}
+
+p, h3, li, header p {
+    margin-left: 12%;
+}
+
+h1 {
+    text-align: center;
+}
+
+#skills {
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+    margin-left: 7%;
+    text-decoration: purple underline;
+    font-style: italic;
+}
